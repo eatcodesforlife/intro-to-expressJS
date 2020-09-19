@@ -1,6 +1,6 @@
 FOR MY REFERENCE
 
-This app created as introduction to express.js w/ Brad Traversy tutorials
+This app is created as introduction to express.js w/ Brad Traversy tutorials
 included in this exercise:
 
 - creating a backend server
